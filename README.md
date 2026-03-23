@@ -1,0 +1,2 @@
+# Entropy-Aware-Neuroplastic-Learning
+NEUROPLASTICITY-INSPIRED GROWING NEURAL NETWORK
