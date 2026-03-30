@@ -1,11 +1,20 @@
+# Data
+data/
+*.tar.gz
+
+# Model checkpoints (too large for GitHub)
+*.pt
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
-.eggs/
-*.egg-info/
-dist/
-build/
-outputs/*.png
-outputs/*.json
+.ipynb_checkpoints/
+
+# OS
 .DS_Store
-*.swp
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
